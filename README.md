@@ -251,3 +251,24 @@ Applications, CVPR 2018.
 [[Grill et al. 20]](https://arxiv.org/pdf/2006.07733.pdf) Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning, arXiv preprint, 2020.    
 [[Chen et al. 20]](https://arxiv.org/pdf/2006.10029v1.pdf) Big Self-Supervised Models are Strong Semi-Supervised Learners, arXiv preprint, 2020.  
 [[Laskin et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5951-Paper.pdf) CURL: Contrastive Unsupervised Representations for Reinforcement Learning, ICML 2020.
+
+### Optimization
+1. ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION (https://arxiv.org/pdf/1412.6980.pdf)
+
+2. SVRG (https://papers.nips.cc/paper/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf)
+
+3. SGD: General Analysis and Improved Rates (https://arxiv.org/pdf/1901.09401.pdf)
+
+4. A CLOSER LOOK AT DEEP LEARNING HEURISTICS: LEARNING RATE RESTARTS, WARMUP AND DISTILLATION (https://openreview.net/pdf?id=r14EOsCqKX)
+
+5. QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding (https://arxiv.org/abs/1610.02132)
+
+6. SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives (https://arxiv.org/abs/1407.0202)
+
+7. SGDR: STOCHASTIC GRADIENT DESCENT WITH WARM RESTARTS (https://arxiv.org/pdf/1608.03983.pdf)
+
+8. Scaling SGD Batch Size to 32K for ImageNet Training (https://people.eecs.berkeley.edu/~youyang/publications/batch32k.pdf)
+
+9. Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour (https://arxiv.org/pdf/1706.02677.pdf)
+
+10. Don't Decay the Learning Rate, Increase the Batch Size (https://arxiv.org/abs/1711.00489)
